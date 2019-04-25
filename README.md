@@ -1,0 +1,1 @@
+# Sample-JsonDB-class-php
